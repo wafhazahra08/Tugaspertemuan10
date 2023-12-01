@@ -10,3 +10,10 @@ Mata Kuliah : Pemrograman Mobile 1
 
 Dosen : Donny Maulana S.Kom.,M.M.S.I
 
+Buatlah tampilan menu Versi 02 dari project-project yang sudah dibuat sebelumnya
+
+dengan tambahan memanggil method Maps
+
+dengan tampilan sebagai berikut :
+
+
