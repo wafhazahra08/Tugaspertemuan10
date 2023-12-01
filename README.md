@@ -821,4 +821,6 @@ Tambahkan code berikut pada bagian application agar set alarm dapat berjalan :
             </intent-filter>
         </activity>
 
-       
+##Hasil Run
+
+https://github.com/wafhazahra08/Tugaspertemuan10/issues/1#issue-2019840766
