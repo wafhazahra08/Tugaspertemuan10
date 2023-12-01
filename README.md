@@ -1,10 +1,15 @@
 # Tugaspertemuan10
 
 Nama : Wafha Zahra Mulqiya
+
 NIM : 312210577
+
 Kelas : TI.22.A5
+
 Mata Kuliah : Pemrograman Mobile 1
-Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I.
+
+Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I
+
 
 Tugas :
 Buatlah tampilan menu Versi 02 dari project-project yang sudah dibuat sebelumnya dengan tambahan memanggil method Maps
@@ -15,6 +20,7 @@ dengan tampilan sebagai berikut :
 1. Menu Utama
 Pertama yang harus kita lakukan adalah mengganti tampilan menu utamanya dengan code yang baru agar ikon tombol berubah menjadi gambar, caranya adalah : Jika awal pembuatan project kita memilih template Empty Views Activity, maka pada layout otomatis terbuat file activity_main.xml dan pada java akan ada MainActivity.java. Maka langsung saja kita buka activity_main.xml, dan buat code seperti berikut ini:
 
+'''
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -244,6 +250,7 @@ Pertama yang harus kita lakukan adalah mengganti tampilan menu utamanya dengan c
         </LinearLayout>
     </LinearLayout>
 </RelativeLayout>
+'''
 
 Maka tampilan menu utama akan seperti ini :
 
