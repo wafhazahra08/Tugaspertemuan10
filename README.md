@@ -820,3 +820,5 @@ Tambahkan code berikut pada bagian application agar set alarm dapat berjalan :
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        https://github.com/wafhazahra08/Tugaspertemuan10/assets/131223804/69c8b082-b4eb-4ed9-a8e5-438977d7c4b1
